@@ -1,0 +1,35 @@
+.navbar-brand img {
+    width: 150px;
+}
+
+.navbar ul li{
+    color: #fff;
+}
+
+body {
+    background-color: rgba(240, 227, 227, 0.918);
+}
+
+/*.col-personalizada {
+    padding-right: 0;
+    padding-left: 0;
+}*/
+
+#header-img{
+    background-image: url("../img/mla-home-desktop-slider-picture-0345b1b5-19bd-41f0-8b9e-67e3c2229371.png");
+    background-size: cover;
+}
+
+.card-float {
+    float: right;
+    padding-right: 200px;
+}
+
+.card-body-motosierra img {
+    width: 200px;
+}
+
+.btn-outline-success {
+    color: #fff;
+    border-color: #fff;
+}
